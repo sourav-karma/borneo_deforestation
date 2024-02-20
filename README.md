@@ -1,4 +1,5 @@
-# borneo_deforestation
+**Quantifying tropical deforestation driven by oil palm cultivation: a case study for Borneo Island, Indonesia**
+
 
 Palm oil has become ubiquitous in various industries, such as food production, animal feed, and cosmetics. 
 Southeast Asia is the major global producer, with Indonesia alone accounting for almost half of the world's oil palm production. 
