@@ -17,3 +17,5 @@ The results revealed that approximately 14.7 km2 of deforestation occurred betwe
 The month of August 2021 experienced the highest deforestation rate, with 4.92 km2 lost. 
 The primary forest area, which was relatively intact in 2020, suffered severe deforestation due to oil palm concessions after June 2021. This study demonstrated the potential of Sentinel-1 SAR for detecting forest cover changes in cloud-covered regions where cloud-free optical satellite images are scarce. 
 It highlights the urgent need for sustainable practices in the oil palm industry, especially in areas with significant environmental impacts like Borneo Island.
+
+![image](https://github.com/user-attachments/assets/0901ef44-dde9-4e6c-a6e0-32ee29854cbb)
